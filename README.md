@@ -1,4 +1,9 @@
 ### Hi there 👋
+모두를 행복하게 만들고 싶은 개발자가 되고 싶은 학생입니다!
+
+### Education 🏫
+인하대학교 정보통신공학과 재학중
+
 
 <!--
 **rabbit0711/rabbit0711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

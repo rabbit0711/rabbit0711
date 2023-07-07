@@ -9,9 +9,7 @@
 
 ### Interest 💕
 •Web back-end programming 
-
 •Game server programming
-
 •AI programming
 
 <!--

@@ -2,7 +2,10 @@
 모두를 행복하게 만들고 싶은 개발자가 되고 싶은 학생입니다!
 
 ### Education 🏫
-인하대학교 정보통신공학과 재학중
+인하대학교 정보통신공학과 재학 (2018 ~ ) 
+
+### Tech Stack 📚
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 
 <!--
